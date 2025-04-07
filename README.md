@@ -3,6 +3,7 @@ I will update this Roadmap with all my work regarding AWS and my journey to a ca
 
 
 The first thing I did was: 
+ 
  Create an IAM user for your personal use. DONE
  
  Set up MFA for your root user, and turn off all root user API keys. DONE
