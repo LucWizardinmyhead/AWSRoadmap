@@ -1,5 +1,5 @@
 # AWSRoadmap
-I will update this Roadmap with all my work regarding AWS and my journey to a career in the Cloud. These are projects I make and projects for clients.
+I will update this Roadmap with all my work regarding AWS and in the Cloud. These are projects I make and projects for clients.
 
 
 The first thing I did was: 
