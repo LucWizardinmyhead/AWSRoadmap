@@ -1,8 +1,5 @@
 # AWSRoadmap
-I will update this Roadmap with all my work regarding AWS and in the Cloud. These are projects I make and projects for clients.
-
-
-The first thing I did was: 
+The first thing I do for a new account: 
  
  Create an IAM user for your personal use.
  
